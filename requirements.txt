@@ -3,5 +3,4 @@ tensorflow
 streamlit
 tensorflow
 numpy
-pickle5
 pickle
